@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: villagelifeplus
+Specification-Vendor: VillageLife Team
+Specification-Version: 1
+Implementation-Title: villagelifeplus
+Implementation-Version: 1.0.0
+Implementation-Vendor: VillageLife Team
+Implementation-Timestamp: 2025-12-04T19:22:42+0000
+

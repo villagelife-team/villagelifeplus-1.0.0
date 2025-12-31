@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL=""
+
+[[mods]]
+    modId="villagelifeplus"
+    version="1.0.0"
+    displayName="VillageLife+"
+    authors="VillageLife Team"
+    description='''Advanced Villager & Wolf Behavior Enhancement'''
+
+[[dependencies.villagelifeplus]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.villagelifeplus]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
